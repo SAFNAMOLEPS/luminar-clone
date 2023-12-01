@@ -1,0 +1,266 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Kaisei+HarunoUmi&family=Mulish&family=Noto+Sans+Osmanya&family=Open+Sans:wght@300&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav li{
+    margin: 0px;
+}
+.nav a{
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+}
+.nav  a:hover{
+    color: rgba(94, 5, 177, 0.863);
+    text-decoration: underline;
+    
+}
+.col-lg-6{
+    background-color: #deccff;
+   
+}
+.card-title {
+    font-family: 'Kaisei HarunoUmi';
+    
+    font-size: 38px;
+    font-weight: 600;
+    color: rgb(109,29,142);
+    text-decoration: none solid;
+}
+.card-text{
+    font-family: 'Mulish';
+    color: rgb(109,29,142);
+    font-size: 25px;
+    font-weight: 600;
+
+}
+ .card-text-p{
+    padding: 0px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.buttn{
+    
+    border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+    background-color: #6D1D8E;
+    
+    
+    
+}
+.button{
+    font-family: 'Mulish';
+    text-decoration:none solid rgb(255,255,255);
+    word-spacing: 0px;
+    border-radius: 30px;
+    width: 140px;
+}
+.buttn a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.col-sm-12 h1{
+    color: #6D1D8E;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Kaisei HarunoUmi';
+    text-align: center;
+}
+.col-sm-12 p{
+    text-align: center;
+    font-family: 'Mulish';
+    font-size: 15px;
+}
+.input-group {
+    border-bottom: 2px solid #C5C5C5;
+    
+}
+
+
+.image{
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: #f0ececea;
+    justify-content: center;
+    margin-left: 70px;
+}
+.card-img-top{
+    width: 110px;
+    height: 110px;
+    padding-top: 30px;
+}
+.card{
+    background-color: #cac7c7;
+}
+.card-titl{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(109,29,142);
+    text-align: left;
+    
+}
+.card-body .card-txt{
+    text-align: justify;
+    justify-content: left;
+}
+.card-body .det{
+    text-align: justify;
+    justify-content: left;
+}
+
+.bttn{
+    border: 2px solid #6D1D8E;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 15px;
+    margin-left: 60px;
+    cursor: pointer;
+      
+      border-radius: 30px;
+      width: 130px;
+}
+.bttn a{
+    text-decoration: none;
+    color: #6D1D8E;
+    font-size: 18px;
+    font-weight: 700;
+}
+.det b{
+    color: #6D1D8E;
+}
+.about img{
+    width: 600px;
+    height: 760px;
+}
+.card-about-title{
+    font-family: 'Barlow', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    color:rgb(109,29,142);
+}
+.bgpic{
+    width: 100%;
+    height: 570px;
+    background-color: rgb(27, 26, 26);
+}
+.bgpic h1{
+    font-family: 'Kaisei HarunoUmi';
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    
+    
+}
+.pen{
+    padding-left: 300px;
+}
+.bgpic p{
+    color: #BB9867;
+    text-align: center;
+    font-family: 'Mulish';
+    font-size: 15px;
+    padding: 25px;
+}
+.bn{
+    
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    
+    margin: 40px 560px;
+    cursor: pointer;
+      justify-content: center;
+      border-radius: 30px;
+      width: 150px;
+      
+}
+.bn a{
+    text-decoration: none;
+    color: #6D1D8E;
+    font-size: 18px;
+    font-weight: 700;
+}
+.bgpic img{
+    width: 67%;
+    height: 19%;
+    margin-left: 20%;
+}
+
+.col-md-3 a{
+    text-decoration: none;
+}
+.col-md-3 h5{
+    color: #6D1D8E;
+    padding: 10px;
+    border-bottom: 1px solid #6D1D8E;
+}
+.col-md-4 h5{
+    color: #6D1D8E;
+    padding: 10px;
+    border-bottom: 1px solid #6D1D8E;
+}
+.col-md-4 h6{
+    color: #6D1D8E;
+}
+.foot a{
+    text-decoration: none;
+}
+.foot b{
+    color: #6D1D8E;
+}
+.col-md-3 img{
+    width: 180px;
+    height: 50px;
+    margin-left: 120px
+}
+.logo{
+    padding-left: 150px;
+    padding-top: 40px;
+}
+.card:hover {
+    background-color: #BB9867;
+    color: #6D1D8E;
+    
+}
+.bttn:hover{
+    background-color: #6D1D8E;
+    text-decoration: solid white;
+    color: white;
+}
+.bttn a:hover{
+    color: white;
+}
+.card-about-body img{
+    width: 85%;
+    height: 90%;
+    padding-left:7%;
+    padding-top: 10px;
+}
+.section .footpic{
+    height: 30%;
+    width: 100%;
+    padding: 20px;
+    padding-right: 40px;
+    margin-left: 27%;
+}
+
